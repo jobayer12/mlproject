@@ -10,3 +10,6 @@ requests
 matplotlib
 bs4
 seaborn
+statsmodels
+plotly
+nbformat
