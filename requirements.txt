@@ -1,15 +1,4 @@
-scikit-learn
+panda
 numpy
-matplotlib
-ipykernel
-pandas
-lxml
-html5lib
-beautifulsoup4
-requests
-matplotlib
-bs4
 seaborn
-statsmodels
-plotly
-nbformat
+-e .
