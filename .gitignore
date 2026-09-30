@@ -1,5 +1,8 @@
 Complete-Data-Science-With-Machine-Learning-And-NLP-2024/
 Complete-Python-Bootcamp/
 venv/
-/mlproject.egg-info
-src/__pycache__
+mlproject.egg-info/
+logs/
+artifacts/
+__pycache__/
+src/components/__pycache__/
