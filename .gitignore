@@ -6,4 +6,3 @@ logs/
 artifacts/
 __pycache__/
 src/components/__pycache__/
-mlflow/
